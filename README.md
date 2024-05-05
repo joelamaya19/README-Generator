@@ -24,12 +24,14 @@ To use this application, follow these steps:
 
 ## Usage
 
-To run the application, execute the following command in your terminal:
-
-!['Video of how to work the application'](./assets/images&videos/readmegeneratorvid.gif)
+To run the application, execute the following command in your terminal: `node index.js`
 
 Follow the prompts to answer the questions about your project. Once you have answered all the questions, the application will generate a README.md file in the `readme_samples` directory.
 
+
+## Walkthrough Video
+
+[Link to walkthrough video](https://drive.google.com/file/d/1khQNgVAVVd5JXkLoHjzikbRFK4IqP6bb/preview)
 
 ## Contribution
 
